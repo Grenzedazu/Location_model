@@ -1,0 +1,6 @@
+<!--index.wxml-->
+<view class="container">
+  <view class="search">
+    <button class="search" bindtap="searchWifi">{{motto}}</button>
+  </view>
+</view>
